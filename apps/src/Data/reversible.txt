@@ -1,0 +1,2 @@
+A <-> 2B + C | deltaG = -1.4
+ATP <-> ADP + 2P | deltaG = 1.3
